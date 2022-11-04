@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <declare-styleable name="NamePictureView">
-        <attr name="name" format="string"/>
-        <attr name="image" format="reference"/>
-    </declare-styleable>
-</resources>
